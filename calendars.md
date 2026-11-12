@@ -25,6 +25,7 @@
 - [PGL · Cluj-Napoca: Closed Qualifier 2027](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11189.ics)
 - [PGL · Cluj-Napoca: Open Qualifier 1 2027](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11198.ics)
 - [ESL Challenger League · Europe Cup #12 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11203.ics)
+- [PGL · Cluj-Napoca: Open Qualifier 2 2027](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11207.ics)
 
 ### 按队伍订阅
 
