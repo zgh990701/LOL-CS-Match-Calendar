@@ -9,9 +9,7 @@
 
 ### 按赛事订阅
 
-- [ESL Challenger League · South America Cup #3 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11033.ics)
 - [ESL Challenger League · North America Cup #3 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11034.ics)
-- [PGL · Bucharest Open Qualifier #2 2027](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11112.ics)
 - [PGL Masters · Bucharest 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11118.ics)
 - [PGL · Bucharest Closed Qualifier 2027](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11119.ics)
 - [ESL Challenger League · Europe Cup #9 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11132.ics)
@@ -63,7 +61,6 @@
 - [FUT Esports](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/136955.ics)
 - [G2](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/3210.ics)
 - [G2 Ares](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/135321.ics)
-- [Galorys](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/134355.ics)
 - [GamerLegion](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/125847.ics)
 - [GameSport](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139004.ics)
 - [GenOne](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/128519.ics)
@@ -72,7 +69,6 @@
 - [Imperial](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/126377.ics)
 - [KAMUI](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139219.ics)
 - [KUUSAMO.gg](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/130733.ics)
-- [largadosypelados](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/131848.ics)
 - [Lavked](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/138370.ics)
 - [Legacy](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/133708.ics)
 - [Lilmix](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/126417.ics)
