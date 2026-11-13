@@ -9,7 +9,6 @@
 
 ### 按赛事订阅
 
-- [ESL Challenger League · Oceania Cup #3 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11031.ics)
 - [ESL Challenger League · South America Cup #3 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11033.ics)
 - [ESL Challenger League · North America Cup #3 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11034.ics)
 - [ESL Challenger League · Asia-Pacific Cup #3 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11035.ics)
@@ -88,7 +87,6 @@
 - [m1x](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/126232.ics)
 - [M80](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/133435.ics)
 - [magic](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/137739.ics)
-- [MARKandLARRY](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/127125.ics)
 - [maybe](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/138899.ics)
 - [mellren](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/138400.ics)
 - [mixLVLT](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139597.ics)
@@ -111,7 +109,6 @@
 - [PURE](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/138419.ics)
 - [PVISION](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139565.ics)
 - [Rebels Gaming](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/134251.ics)
-- [Rooster](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/127114.ics)
 - [Ryvex](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139041.ics)
 - [Saint Sinners](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139149.ics)
 - [SAW](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/126738.ics)
