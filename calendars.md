@@ -123,7 +123,6 @@
 - [Wildcard](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/135273.ics)
 - [WRAITH PCIFIC](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/138660.ics)
 - [WW Team](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/135497.ics)
-- [Younglings](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/138163.ics)
 
 ## LoL
 
