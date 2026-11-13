@@ -11,7 +11,6 @@
 
 - [ESL Challenger League · South America Cup #3 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11033.ics)
 - [ESL Challenger League · North America Cup #3 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11034.ics)
-- [ESL Challenger League · Asia-Pacific Cup #3 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11035.ics)
 - [PGL · Bucharest Open Qualifier #2 2027](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11112.ics)
 - [PGL Masters · Bucharest 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11118.ics)
 - [PGL · Bucharest Closed Qualifier 2027](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11119.ics)
@@ -36,7 +35,6 @@
 - [Acend](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/137546.ics)
 - [aimclub](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/134320.ics)
 - [Alliance](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/133725.ics)
-- [Alter Ego](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/135214.ics)
 - [Apogee Esports](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/135381.ics)
 - [Aurora Gaming](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/131505.ics)
 - [B8](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/129381.ics)
