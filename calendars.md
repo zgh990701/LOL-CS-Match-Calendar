@@ -53,6 +53,7 @@
 - [Falcons Force](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/137508.ics)
 - [FaZe](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/3212.ics)
 - [FlyQuest](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/134746.ics)
+- [fnatic](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/3217.ics)
 - [FOKUS](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/137699.ics)
 - [Four Magic](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/137551.ics)
 - [FURIA](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/124530.ics)
