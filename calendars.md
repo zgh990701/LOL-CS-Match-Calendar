@@ -9,7 +9,6 @@
 
 ### 按赛事订阅
 
-- [ESL Challenger League · North America Cup #3 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11034.ics)
 - [PGL Masters · Bucharest 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11118.ics)
 - [PGL · Bucharest Closed Qualifier 2027](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11119.ics)
 - [ESL Challenger League · Europe Cup #9 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11132.ics)
@@ -42,7 +41,6 @@
 - [BBL](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139180.ics)
 - [BetBoom Team](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/133458.ics)
 - [Butterfly](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/138975.ics)
-- [Chicken Coop Esports](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/136064.ics)
 - [Chinggis Warriors](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/134264.ics)
 - [Dark Moon](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/138694.ics)
 - [DENDELE CS](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/138988.ics)
@@ -93,7 +91,6 @@
 - [Nuclear TigeRES](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/135673.ics)
 - [OG](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/126584.ics)
 - [Optibet](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139266.ics)
-- [Overtake Sector](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/138652.ics)
 - [PARIVISION](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/133719.ics)
 - [PCIFIC](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/133315.ics)
 - [PRIVATE](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139320.ics)
