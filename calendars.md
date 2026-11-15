@@ -130,7 +130,6 @@
 
 - [Anyone's Legend](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/129971.ics)
 - [Bilibili Gaming](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/1566.ics)
-- [Cloud9](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/1097.ics)
 - [CTBC Flying Oyster](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/130355.ics)
 - [Dplus KIA](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/132531.ics)
 - [FURIA Esports](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/126688.ics)
