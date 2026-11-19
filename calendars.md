@@ -10,7 +10,6 @@
 ### 按赛事订阅
 
 - [PGL Masters · Bucharest 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11118.ics)
-- [PGL · Bucharest Closed Qualifier 2027](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11119.ics)
 - [ESL Challenger League · Europe Cup #9 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11132.ics)
 - [IEM · Beijing 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11136.ics)
 - [BLAST Rivals · Fall 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11137.ics)
@@ -32,7 +31,6 @@
 - [Acend](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/137546.ics)
 - [aimclub](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/134320.ics)
 - [Alliance](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/133725.ics)
-- [Apogee Esports](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/135381.ics)
 - [Aurora Gaming](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/131505.ics)
 - [B8](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/129381.ics)
 - [BakS eSports](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/130794.ics)
@@ -102,7 +100,6 @@
 - [STATE](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/137861.ics)
 - [Sökerorg](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139343.ics)
 - [Team Falcons](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/130564.ics)
-- [Team Nemesis](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/137289.ics)
 - [The Last Resort](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/130590.ics)
 - [TheMongolz](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/3272.ics)
 - [TitanFlow](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139210.ics)
