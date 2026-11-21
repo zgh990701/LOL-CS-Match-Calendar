@@ -95,7 +95,6 @@
 - [Saint Sinners](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139149.ics)
 - [SAW](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/126738.ics)
 - [Spirit](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/124523.ics)
-- [Spirit Academy Green](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/137444.ics)
 - [STATE](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/137861.ics)
 - [Sökerorg](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139343.ics)
 - [Team Falcons](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/130564.ics)
