@@ -10,7 +10,6 @@
 ### 按赛事订阅
 
 - [PGL Masters · Bucharest 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11118.ics)
-- [ESL Challenger League · Europe Cup #9 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11132.ics)
 - [IEM · Beijing 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11136.ics)
 - [BLAST Rivals · Fall 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11137.ics)
 - [ESL Challenger League · Europe Cup #10 season 52 2026](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/events/cs2/11171.ics)
@@ -101,7 +100,6 @@
 - [TitanFlow](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/139210.ics)
 - [TYLOO](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/3248.ics)
 - [Vitality](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/3455.ics)
-- [WBT Academy](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/138976.ics)
 - [Wildcard](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/135273.ics)
 - [WRAITH PCIFIC](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/138660.ics)
 - [WW Team](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/cs2/135497.ics)
