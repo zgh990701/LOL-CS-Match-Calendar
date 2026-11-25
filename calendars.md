@@ -114,7 +114,6 @@
 
 ### 按队伍订阅
 
-- [Anyone's Legend](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/129971.ics)
 - [Bilibili Gaming](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/1566.ics)
 - [CTBC Flying Oyster](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/130355.ics)
 - [Dplus KIA](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/132531.ics)
