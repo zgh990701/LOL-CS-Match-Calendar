@@ -128,5 +128,4 @@
 - [Movistar KOI](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/126536.ics)
 - [T1](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/126061.ics)
 - [Team Liquid](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/390.ics)
-- [Team Secret Whales](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/136073.ics)
 - [Top Esports](https://raw.githubusercontent.com/zgh990701/LOL-CS-Match-Calendar/main/teams/lol/126059.ics)
